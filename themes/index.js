@@ -119,6 +119,18 @@ const themes = {
     text_color: "FFFFFF",
     bg_color: "050F2C",
   },
+  "vader":{
+    title_color: "000000",
+    icon_color: "000000",
+    text_color: "000000",
+    bg_color: "FF0000",
+  },
+   "black_white": {
+    title_color: "ffffff",
+    icon_color: "ffffff",
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  },
 };
 
 module.exports = themes;
